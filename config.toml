@@ -1,0 +1,4 @@
+baseURL = "https://nevermindthebuzzstocks.com/"
+languageCode = "en-us"
+title = "Never Mind the Buzzstocks"
+publishDir = "docs"
